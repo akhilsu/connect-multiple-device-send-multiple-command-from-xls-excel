@@ -1,2 +1,5 @@
 show version
 show platform
+show processes cpu
+show memory summary
+show bgp scale
